@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846443303342",
+    "project_id": "air-home-stay-bb6a9",
+    "storage_bucket": "air-home-stay-bb6a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846443303342:android:bd03e5899070d8ee2af83f",
+        "android_client_info": {
+          "package_name": "com.example.air_home_stay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846443303342-r8ruivbb9reua3ddrs4mv9oid30qa701.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6AUKG0We-PmC2aUoKVCM9yj3LKi0fffg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846443303342-r8ruivbb9reua3ddrs4mv9oid30qa701.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
